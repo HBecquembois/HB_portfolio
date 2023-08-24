@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Hélène Becquembois
 # Description of the Site
-description: webdeveloper, personal website
+description: web developer, personal website
 # URL of Image of the Site
 site-image: assets/images/plainetarn.jpg
 # Keywords of the Site
@@ -45,7 +45,7 @@ author-name: Hélène Becquembois
 # URL for the Image of the Author
 author-image: https://avatars.githubusercontent.com/u/130669333?v=4
 # 60 Words About the Author
-author-about: I finished in June 2023 a 9 week intensive bootcamp in full stack web development at Le Wagon Paris (batch 1210) to start a new life as a web developer. Previous to that I have worked for 20 years in the public sector. My plan is now to work on concrete and meaningful projects. I am concerned by environmental issues and women's rights. <br> I am a very curious person, eager to learn always more. Amongst others, I am passionate about music, gastronomy and reading.
+author-about: I finished in June 2023 a 9 week intensive bootcamp in full stack web development at Le Wagon Paris (batch 1210) to start a new life as a web developer. Previous to that I have worked for 20 years in the public sector. My plan is now to work on concrete and meaningful projects. I am concerned by environmental issues and women's rights. <br> <br> I am a very curious person, eager to learn always more. Amongst others, I am passionate about music, gastronomy and reading.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/HBecquembois
 
