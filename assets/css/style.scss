@@ -3,6 +3,12 @@
 
 @import "main.scss";
 
+.back-top-button {
+  background-color: transparent;
+  color: #0a0a0a;
+  border-radius: black;
+}
+
 #navbar {
     opacity: 0.95;
 }
@@ -74,7 +80,7 @@ a.navbar-item.is-active {
         margin: auto;
 
         img {
-            border: 0.25rem dotted black;
+            border: 0.25rem  black;
         }
     }
 
@@ -193,7 +199,7 @@ a.navbar-item.is-active {
             outline: 0.25rem solid white;
         }
 
-        border: none;
+        // border: none;
     }
 }
 
